@@ -1,4 +1,4 @@
-# Spring-Boot-Product-Automation
+# Spring Boot Product System
 
  Spring Boot Crud Application with Thymeleaf, JPA, Spring Security. 
  
@@ -19,7 +19,7 @@ This project based on the Spring Boot project and uses these packages:
 
 ### 1. Clone the application
 
-<pre> $ git clone https://github.com/batuhaniskr/spring-boot-product-automation.git </pre>
+<pre> $ git clone https://github.com/batuhaniskr/spring-boot-product-system.git </pre>
 
 ### 2. Database Configuration
 
